@@ -15,7 +15,7 @@ pixi add --pypi cytnx-cuda --index https://pypi.anaconda.org/cytnx-nightly-wheel
 ```
 
 ### Advanced install
-You can compile and install Cytnx from source to get the newest version. Follow the guide in https://cytnx-dev.github.io/Cytnx/1.1.1/adv_install.html
+You can compile and install Cytnx from source to get the newest version. Follow the guide in https://cytnx-dev.github.io/Cytnx/stable/adv_install.html
 
 Import cytnx in Python by running
 ```shell
